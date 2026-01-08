@@ -1,0 +1,2 @@
+$ docker run -d --rm --env-file .env -p 8080:8080 --add-host=host.docker.internal:host-gateway  backend-api:local
+05c0d740f82fd96a775ae1f53453b6d619aadb32bf65e21497c9839250be5a70
